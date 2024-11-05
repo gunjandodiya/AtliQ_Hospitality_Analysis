@@ -12,7 +12,7 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-Live Dashboard Link : @https://app.powerbi.com/view?r=eyJrIjoiMjU2YzI2YjgtY2UwMC00OGZiLWFlNWYtNGQxMmVkMjVjZjc0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Live Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMjU2YzI2YjgtY2UwMC00OGZiLWFlNWYtNGQxMmVkMjVjZjc0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 # Some Important insights from the Dashboard
 -Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
